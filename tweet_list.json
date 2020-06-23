@@ -1,0 +1,47 @@
+{
+  "HASHTAGS": ["#tbl", "#ticketbrokerlist", "#tixflipping", "#ticketreselling", "#tickets", "#ticketbroker", "#flipping"],
+  "URL_SNIPPETS": ["Get more info here: http://bit.ly/TBLList", "http://bit.ly/TBLList", "Sign up here: http://bit.ly/TBLList", "", "", "", "", ""],
+
+  "GENERAL TWEETS": {
+    "TWEETS": [
+      "Interested in learning more about reselling concert tickets? Join our free Slack Chat - http://bit.ly/TBL-Slack-Chat",
+      "Join our free Slack Chat - http://bit.ly/TBL-Slack-Chat"
+    ]
+  },
+
+  "SERVICES IMAGES": {
+    "TWEETS":
+    {
+      "DROPCHECKER": [
+      "Daily ticket release notifications from our exclusive dropchecker!",
+      "TBL EXCLUSIVE DROPCHECKER",
+      "One of the fastest dropcheckers on the market..."
+    ],
+      "PRESALE_LIST":  [
+        "Daily presale recommendation list Monday-Friday!",
+        "Daily presale recommendation list - detailed analysis with price points and sales info!",
+        "Daily presale recommendation list Monday-Friday!"
+
+      ],
+      "EVENT_TRACKER": [
+        "Track events automatically with the TBL Event Tracker!",
+        "Try out our automated event tracker to monitor ticket counts closely!",
+        "TBL EVENT TRACKER"
+      ]
+    }
+  },
+
+  "PROFITS": {
+    "TWEETS": [
+      "Not bad for a day's work",
+      "Quick flips!"
+    ]
+  },
+
+  "TESTIMONIALS": {
+    "TWEETS": [
+      "Testimonial from one of our members!"
+    ]
+  }
+
+}
