@@ -1,1 +1,5 @@
 config.py
+env/
+.vscode/
+.idea/
+__pycache__/
